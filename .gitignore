@@ -1,2 +1,4 @@
 ﻿.idea
 tok.txt
+__pycache__
+const.py
